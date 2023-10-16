@@ -22,3 +22,12 @@ cd mern/client
 npm install
 npm start
 ```
+
+
+# task2 
+## How to Run
+```
+cd task2
+npm install
+npm start
+```
