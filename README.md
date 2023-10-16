@@ -1,7 +1,6 @@
 # task1
 
 ## How To Run
-Create the file `mern/server/config.env` with your Atlas URI and the server port:
 ```
 ATLAS_URI=mongodb+srv://<username>:<password>@cluster0.btyfgk7.mongodb.net/
 
